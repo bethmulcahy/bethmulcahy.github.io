@@ -1,0 +1,105 @@
+@charset "UTF-8";
+body{
+	font-family: 'Merriweather', sans-serif;
+}
+.navbar
+{
+	background:#7A393D!important;
+	margin-bottom: 0px !important;
+	margin-top: 0px !important;
+}
+
+.navbar a {
+	color: #FFFAF3 !important;
+	font-family: 'Merriweather',Segoe UI, Lucida Sans, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 1.2em;
+}
+
+.navbar li:hover{
+	background:#75353A;
+}
+.active_mod{
+	background:#863C3E !important;
+}
+
+.hero .jumbotron
+{
+	background: #7A393D;
+	color: #35171D;
+	padding: 4% 7% 8% 7%;
+	height: 50% !important;
+	
+}
+
+.hero h1
+{
+	color: #a74a5c;
+	font-family: 'Merriweather';	
+	font-weight:600;
+	font-size: 2.4em;
+}
+
+.hero .row .pls{background:white}
+
+.hero .second{
+	top: 20px;
+}
+
+.hero .row .inn
+{
+	font-size: 1.3em;
+	font-style:normal;
+	font-family: 'Merriweather';	
+	font-weight: 300;
+	padding-top:40px;
+}
+.hero .btn
+{
+	font-family: 'Merriweather', sans-serif;
+	font-weight: 500;
+	background: #a74a5c;
+	color: white;
+}
+
+.hero .btn:hover
+{
+	background:#81454B;
+}
+
+.recwork h2{
+	padding-top: 20px;
+}
+.recwork a{
+	color:black;
+}
+.pullqu {
+	background: #7A393D;
+	padding: 2em;
+	height: 50%;
+}
+.pullqu p {
+	font-style: italic;
+	font-size:1.6em;
+	color: white !important;
+	padding: 0px 10% 0px 10%;
+}
+.pullqu a{
+	font-family: 'Merriweather', sans-serif;
+	text-transform:none;
+	color:white;
+	font-style:normal;
+}
+.sendcon .btn{
+	background:#7A393D;
+	width: 35%;
+}
+.ftr{
+	background:#7A393D;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+.pubs a{
+	color: #7A393D;
+}
